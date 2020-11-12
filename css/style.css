@@ -1,7 +1,7 @@
 @font-face {
-  font-family: 'icomoon';
-  src: url("../fonts/icomoon/icomoon.eot?srf3rx");
-  src: url("../fonts/icomoon/icomoon.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/icomoon/icomoon.ttf?srf3rx") format("truetype"), url("../fonts/icomoon/icomoon.woff?srf3rx") format("woff"), url("../fonts/icomoon/icomoon.svg?srf3rx#icomoon") format("svg");
+  font-family: 'Kaushan Script';
+  src: url("../fonts/Kaushan Script/Kaushan Script.eot?srf3rx");
+  src: url("../fonts/Kaushan Script/Kaushan Script.eot?srf3rx#iefix") format("embedded-opentype"), url("../fonts/Kaushan Script/Kaushan Script.ttf?srf3rx") format("truetype"), url("../fonts/Kaushan Script/Kaushan Script.woff?srf3rx") format("woff"), url("../fonts/Kaushan Script/Kaushan Script.svg?srf3rx#Kaushan Script") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -479,7 +479,7 @@ body.offcanvas {
   border: none; }
 
 .panel-heading a:after {
-  font-family: "icomoon";
+  font-family: "Kaushan Script";
   content: "\e115";
   position: absolute;
   right: 20px;
